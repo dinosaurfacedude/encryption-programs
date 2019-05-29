@@ -1,0 +1,6 @@
+instructions:
+This program is meant to be run in the command line. 
+Open it with Python3 in the terminal/command line or in your favorite IDE, and choose whether you want to encrypt or decrypt.
+If you choose to encrypt, type in the filepath of the file you need encrypted, and choose your numerical key.
+The encrypted message will be stored in encrypted.txt.
+I have it set so that you still have to type in the name of encrypted.txt, in case if its name gets changed. 
