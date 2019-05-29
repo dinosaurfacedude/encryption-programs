@@ -1,1 +1,1 @@
-This is the double transposition cipher. It takes a 3x4 array, gets input from user, and mixes it up. It will then output to a file which can be decrypted if the user chooses 0 in the main menu.
+This is the double transposition cipher. It takes a 3x4 array, gets input from user, and mixes it up. It will then output to a file which can be decrypted if the user chooses 0 in the main menu. The source code can be found in main.cpp
